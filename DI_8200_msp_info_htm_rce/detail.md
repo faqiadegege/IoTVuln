@@ -15,9 +15,13 @@ Exploit attempt success right here:
 
 request
 
+![request](001_003.png)
+
 
 shell ls
-![webhttp](001_004.png)
+
+![shell ls](001_004.png)
 
 exploit.txt content
-![webhttp](001_005.png)
+
+![exploit.txt content](001_005.png)
