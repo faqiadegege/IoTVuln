@@ -4,5 +4,5 @@
 In the DI_8200-16.07.26A1 device, due to the lack of restrictions on some parameters in the msp_info_htm function, command injection can be caused
 # detail
 
-![msp_info_htm][./01_1.png]
+![msp_info_htm](01_1.png)
 
