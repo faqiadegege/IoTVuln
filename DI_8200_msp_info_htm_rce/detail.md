@@ -1,5 +1,9 @@
 # title
  DI_8200-16.07.26A1 RCE vulnerability
+
+firmware: 
+[Firmware:DI_8200-16.07.26A1](http://www.dlink.com.cn/techsupport/download.ashx?file=5010)
+ 
 # info
 In the DI_8200-16.07.26A1 device, due to the lack of restrictions on some parameters in the msp_info_htm function, command injection can be caused
 # detail
