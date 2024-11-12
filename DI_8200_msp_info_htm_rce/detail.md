@@ -18,7 +18,7 @@ In the msp_info_htm function, when the value of the parameter flag obtained by h
 Exploit attempt success right here:
 
 request
-
+![request](001_003.png)
 
 
 shell ls
