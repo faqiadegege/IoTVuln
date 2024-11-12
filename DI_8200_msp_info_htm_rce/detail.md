@@ -19,7 +19,6 @@ Exploit attempt success right here:
 
 request
 
-![request](001_003.png)
 
 
 shell ls
