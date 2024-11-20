@@ -19,6 +19,7 @@ affected executable: jhttpd,, affected functions: arp_sys_asp
 
 
 
+### check the vuln
 
 ![](4_2.png)
 
@@ -30,7 +31,7 @@ affected executable: jhttpd,, affected functions: arp_sys_asp
 
 
 
-
+### deny of service
 
 ![](4_4.png)
 
