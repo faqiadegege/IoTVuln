@@ -16,7 +16,7 @@ There is a rce vulnerability in AC6 : 15.03.05.16_multi. In the saveParentContro
 
 
 
-![](14_6.png)
+![](14-6.png)
 
 
 
